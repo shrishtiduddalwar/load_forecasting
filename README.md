@@ -33,10 +33,9 @@ scripts:
 
 ### Team Members:
 
-* Ayush Kumar Goyal
-* Boragapu Sunil Kumar
-* Srimukha Paturi
-* Rishabh Agrahari
+* Tanay Kothari
+* Shrishti Duddalwar
+  
 
 ## Star History
 
